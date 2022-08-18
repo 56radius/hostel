@@ -20,8 +20,8 @@ FIRST DOWNLOAD
 
 6. Import hostel.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/hostel
+7.Run the script http://localhost/hostel/
 
 
-Login Details for admin : admin/Test@1234
-Login Details for user : test@gmail.com/Test@123
+Login Details for admin : admin@gmail.com/admin@123
+Login Details for user : Olushola@gmail.com/king
